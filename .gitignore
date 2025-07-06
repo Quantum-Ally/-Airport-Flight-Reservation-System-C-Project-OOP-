@@ -1,0 +1,8 @@
+*.exe
+*.obj
+*.log
+*.user
+*.suo
+*.VC.db
+*.class
+.DS_Store
